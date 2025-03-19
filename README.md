@@ -56,4 +56,4 @@ I bridge the gap between development and deployment, specializing in automation,
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meitar55&show_icons=true&theme=radical)
